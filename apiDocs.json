@@ -1,35 +1,250 @@
-
 {
-  "MenuID": "15665",
-  "version_list": [
-    
+  "menuName": [
+    "Overview",
+    ""
   ],
-  "breadcrumbMenu": null,
-  "menu": [
+  "link": "/crm/developer/docs/api/v2/index.html",
+  "apiType": null,
+  "subMenu": null
+},
+{
+  "menuName": [
+    "What's New",
+    ""
+  ],
+  "link": "/crm/developer/docs/api/v2/whats-new.html",
+  "apiType": null,
+  "subMenu": null
+},
+{
+  "menuName": [
+    "V2.0 Migration",
+    ""
+  ],
+  "link": "",
+  "apiType": null,
+  "subMenu": [
     {
       "menuName": [
         "Overview",
-        "REST API - \u6982\u8981",
         ""
       ],
-      "link": "/crm/developer/docs/api/index.html",
+      "link": "/crm/developer/docs/api/v2/migration-v2.html",
       "apiType": null,
       "subMenu": null
     },
     {
       "menuName": [
-        "What's New",
-        "\u6700\u65b0\u60c5\u5831",
+        "Migration for Redirection-based Applications",
         ""
       ],
-      "link": "/crm/developer/docs/api/whats-new.html",
+      "link": "/crm/developer/docs/api/v2/external-oauth.html",
       "apiType": null,
       "subMenu": null
     },
     {
       "menuName": [
-        "V2.0 Migration",
-        "\u30d0\u30fc\u30b8\u30e7\u30f32.0\u3078\u306e\u79fb\u884c",
+        "Migration for Self-Client Applications",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/self-oauth.html",
+      "apiType": null,
+      "subMenu": null
+    }
+  ]
+},
+{
+  "menuName": [
+    "API Collection",
+    ""
+  ],
+  "link": "/crm/developer/docs/api/v2/api-collection.html",
+  "apiType": null,
+  "subMenu": null
+},
+{
+  "menuName": [
+    "OAuth Authentication",
+    ""
+  ],
+  "link": "",
+  "apiType": null,
+  "subMenu": [
+    {
+      "menuName": [
+        "Overview",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/oauth-overview.html",
+      "apiType": null,
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Scopes",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/scopes.html",
+      "apiType": null,
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Step 1: Registering a Client",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/register-client.html",
+      "apiType": null,
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Step 2: Making the Authorization Request",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/auth-request.html",
+      "apiType": null,
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Step 3: Generating Tokens",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/access-refresh.html",
+      "apiType": null,
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Step 4: Refreshing your Access Tokens",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/refresh.html",
+      "apiType": null,
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Step 5: Revoking Tokens",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/revoke-tokens.html",
+      "apiType": null,
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Token Validity",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/token-validity.html",
+      "apiType": null,
+      "subMenu": null
+    }
+  ]
+},
+{
+  "menuName": [
+    "API Limits",
+    ""
+  ],
+  "link": "/crm/developer/docs/api/v2/api-limits.html",
+  "apiType": null,
+  "subMenu": null
+},
+{
+  "menuName": [
+    "Multi DC Support",
+    ""
+  ],
+  "link": "/crm/developer/docs/api/v2/multi-dc.html",
+  "apiType": null,
+  "subMenu": null
+},
+{
+  "menuName": [
+    "CORS Support",
+    ""
+  ],
+  "link": "https://zcms.zohocorp.com/crm/developer/docs/api/v2/CORSSupport.html",
+  "apiType": null,
+  "subMenu": null
+},
+{
+  "menuName": [
+    "Increase API Credits",
+    ""
+  ],
+  "link": "/crm/developer/docs/api/v2/purchase-from-dashboard.html",
+  "apiType": null,
+  "subMenu": null
+},
+{
+  "menuName": [
+    "GDPR Compliance",
+    ""
+  ],
+  "link": "/crm/developer/docs/api/v2/gdpr-compliance.html",
+  "apiType": null,
+  "subMenu": null
+},
+{
+  "menuName": [
+    "HIPAA Compliance",
+    ""
+  ],
+  "link": "/crm/developer/docs/api/v2/hipaa-compliance.html",
+  "apiType": null,
+  "subMenu": null
+},
+{
+  "menuName": [
+    "API Dashboard",
+    ""
+  ],
+  "link": "/crm/developer/docs/api/v2/dashboards.html",
+  "apiType": null,
+  "subMenu": null
+},
+{
+  "menuName": [
+    "Status Codes",
+    ""
+  ],
+  "link": "/crm/developer/docs/api/v2/status-codes.html",
+  "apiType": null,
+  "subMenu": null
+},
+{
+  "menuName": [
+    "Request Methods",
+    ""
+  ],
+  "link": "/crm/developer/docs/api/v2/request-methods.html",
+  "apiType": null,
+  "subMenu": null
+},
+{
+  "menuName": [
+    "Response Structure",
+    ""
+  ],
+  "link": "/crm/developer/docs/api/v2/response-structure.html",
+  "apiType": null,
+  "subMenu": null
+},
+{
+  "menuName": [
+    "REST API",
+    ""
+  ],
+  "link": "",
+  "apiType": null,
+  "subMenu": [
+    {
+      "menuName": [
+        "Modules",
         ""
       ],
       "link": "",
@@ -37,40 +252,18 @@
       "subMenu": [
         {
           "menuName": [
-            "Overview",
-            "\u30d0\u30fc\u30b8\u30e7\u30f32.0\u3078\u306e\u79fb\u884c - \u6982\u8981",
+            "Modules",
             ""
           ],
-          "link": "/crm/developer/docs/api/migration-v2.html",
-          "apiType": null,
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Migration for Redirection-based Applications",
-            "\u30ea\u30c0\u30a4\u30ec\u30af\u30c8\u30d9\u30fc\u30b9\u306e\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u3078\u306e\u79fb\u884c",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/external-oauth.html",
-          "apiType": null,
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Migration for Self-Client Applications",
-            "\u30bb\u30eb\u30d5\u30af\u30e9\u30a4\u30a2\u30f3\u30c8\u30a2\u30d7\u30ea\u30b1\u30fc\u30b7\u30e7\u30f3\u3078\u306e\u79fb\u884c",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/self-oauth.html",
-          "apiType": null,
+          "link": "/crm/developer/docs/api/v2/modules-api.html",
+          "apiType": "GET",
           "subMenu": null
         }
       ]
     },
     {
       "menuName": [
-        "OAuth Authentication",
-        "OAuth\u8a8d\u8a3c",
+        "Organization",
         ""
       ],
       "link": "",
@@ -78,1400 +271,267 @@
       "subMenu": [
         {
           "menuName": [
-            "Overview",
-            "\u6982\u8981",
+            "Organization Details",
             ""
           ],
-          "link": "/crm/developer/docs/api/oauth-overview.html",
-          "apiType": null,
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Step 1: Registering a Client",
-            "\u30b9\u30c6\u30c3\u30d71\uff1a\u30af\u30e9\u30a4\u30a2\u30f3\u30c8\u306e\u767b\u9332",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/register-client.html",
-          "apiType": null,
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Step 2: Making the Authorization Request",
-            "\u30b9\u30c6\u30c3\u30d72\uff1a\u8a8d\u8a3c\u30ea\u30af\u30a8\u30b9\u30c8\u306e\u4f5c\u6210",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/auth-request.html",
-          "apiType": null,
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Step 3: Generating Tokens",
-            "\u30b9\u30c6\u30c3\u30d73\uff1a\u30c8\u30fc\u30af\u30f3\u306e\u751f\u6210",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/access-refresh.html",
-          "apiType": null,
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Step 4: Refreshing your Access Tokens",
-            "\u30b9\u30c6\u30c3\u30d74\uff1a\u30a2\u30af\u30bb\u30b9\u30c8\u30fc\u30af\u30f3\u306e\u30ea\u30d5\u30ec\u30c3\u30b7\u30e5",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/refresh.html",
-          "apiType": null,
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Step 5: Revoking Tokens",
-            "\u30b9\u30c6\u30c3\u30d75\uff1a\u30c8\u30fc\u30af\u30f3\u306e\u7121\u52b9\u5316",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/revoke-tokens.html",
-          "apiType": null,
-          "subMenu": null
-        }
-      ]
-    },
-    {
-      "menuName": [
-        "Multi DC Support",
-        "\u8907\u6570\u30c7\u30fc\u30bf\u30bb\u30f3\u30bf\u30fc\u306e\u30b5\u30dd\u30fc\u30c8",
-        ""
-      ],
-      "link": "/crm/developer/docs/api/multi-dc.html",
-      "apiType": null,
-      "subMenu": null
-    },
-    {
-      "menuName": [
-        "API Limits",
-        "API\u306e\u5236\u9650",
-        ""
-      ],
-      "link": "/crm/developer/docs/api/api-limits.html",
-      "apiType": null,
-      "subMenu": null
-    },
-    {
-      "menuName": [
-        "Increase API Credits",
-        ""
-      ],
-      "link": "/crm/developer/docs/api/purchase-from-dashboard.html",
-      "apiType": null,
-      "subMenu": null
-    },
-    {
-      "menuName": [
-        "GDPR Compliance",
-        "GDPR\u30b3\u30f3\u30d7\u30e9\u30a4\u30a2\u30f3\u30b9",
-        ""
-      ],
-      "link": "/crm/developer/docs/api/gdpr-compliance.html",
-      "apiType": null,
-      "subMenu": null
-    },
-    {
-      "menuName": [
-        "Dashboards",
-        "\u30c0\u30c3\u30b7\u30e5\u30dc\u30fc\u30c9",
-        ""
-      ],
-      "link": "/crm/developer/docs/api/dashboards.html",
-      "apiType": null,
-      "subMenu": null
-    },
-    {
-      "menuName": [
-        "Status Codes",
-        "\u30b9\u30c6\u30fc\u30bf\u30b9\u30b3\u30fc\u30c9",
-        ""
-      ],
-      "link": "/crm/developer/docs/api/status-codes.html",
-      "apiType": null,
-      "subMenu": null
-    },
-    {
-      "menuName": [
-        "Request Methods",
-        "\u30ea\u30af\u30a8\u30b9\u30c8\u30e1\u30bd\u30c3\u30c9",
-        ""
-      ],
-      "link": "/crm/developer/docs/api/request-methods.html",
-      "apiType": null,
-      "subMenu": null
-    },
-    {
-      "menuName": [
-        "Response Structure",
-        "\u30ec\u30b9\u30dd\u30f3\u30b9\u306e\u69cb\u9020",
-        ""
-      ],
-      "link": "/crm/developer/docs/api/response-structure.html",
-      "apiType": null,
-      "subMenu": null
-    },
-    {
-      "menuName": [
-        "------------------------",
-        ""
-      ],
-      "link": "",
-      "apiType": null,
-      "subMenu": null
-    },
-    {
-      "menuName": [
-        "REST API",
-        "REST API",
-        ""
-      ],
-      "link": "",
-      "apiType": null,
-      "subMenu": [
-        {
-          "menuName": [
-            "Modules API",
-            "\u30bf\u30d6API",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/modules-api.html",
-          "apiType": null,
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Organization API",
-            "\u7d44\u7e54API",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Organization Details",
-                "\u7d44\u7e54\u306e\u8a73\u7d30",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-org-data.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Upload Organization Photo",
-                "\u7d44\u7e54\u306e\u753b\u50cf\u306e\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/upload-org-img.html",
-              "apiType": "POST",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Users API",
-            "\u30e6\u30fc\u30b6\u30fcAPI",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Users Data",
-                "\u30e6\u30fc\u30b6\u30fc\u306e\u30c7\u30fc\u30bf",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-users.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Specific User Data",
-                "\u7279\u5b9a\u306e\u30e6\u30fc\u30b6\u30fc\u306e\u30c7\u30fc\u30bf",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-specific-user.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Add User",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/add-user.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Update User",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/update-user.html",
-              "apiType": "PUT",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Delete User",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/delete-user.html",
-              "apiType": "DELETE",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Roles API",
-            "\u5f79\u8077API",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Roles Data",
-                "\u5f79\u8077\u306e\u30c7\u30fc\u30bf",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-roles.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Specific Role Data",
-                "\u7279\u5b9a\u306e\u5f79\u8077\u306e\u30c7\u30fc\u30bf",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/specific-role.html",
-              "apiType": "GET",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Profiles API",
-            "\u6a29\u9650API",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Profiles Data",
-                "\u6a29\u9650\u306e\u30c7\u30fc\u30bf",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-profiles.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Specific Profile Data",
-                "\u7279\u5b9a\u306e\u6a29\u9650\u306e\u30c7\u30fc\u30bf",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/specific-profiles.html",
-              "apiType": "GET",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Territories API",
-            "\u30c6\u30ea\u30c8\u30ea\u30fcAPI",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/territories.html",
-          "apiType": null,
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Meta Data APIs",
-            "\u30e1\u30bf\u30c7\u30fc\u30bfAPI",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Modules",
-                "\u30bf\u30d6",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/module-meta.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Fields",
-                "\u9805\u76ee",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/field-meta.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Layouts",
-                "\u30ec\u30a4\u30a2\u30a6\u30c8",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/layouts-meta.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Specific Layout",
-                "\u7279\u5b9a\u306e\u30ec\u30a4\u30a2\u30a6\u30c8",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/specific-layout-meta.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Related Lists",
-                "\u95a2\u9023\u30ea\u30b9\u30c8",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/related-list-meta.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Custom Views",
-                "\u30ab\u30b9\u30bf\u30e0\u30d3\u30e5\u30fc",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/custom-view-meta.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Specific Custom View",
-                "\u7279\u5b9a\u306e\u30ab\u30b9\u30bf\u30e0\u30d3\u30e5\u30fc",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/specific-custom-view-meta.html",
-              "apiType": "GET",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Record APIs",
-            "\u30c7\u30fc\u30bfAPI",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "List of Records",
-                "\u30c7\u30fc\u30bf\u306e\u4e00\u89a7",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-records.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Get Specific Record data",
-                "\u7279\u5b9a\u306e\u30c7\u30fc\u30bf\u306e\u53d6\u5f97",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-specific-record.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Insert Records",
-                "\u30c7\u30fc\u30bf\u306e\u8ffd\u52a0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/insert-records.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Update Records",
-                "\u30c7\u30fc\u30bf\u306e\u66f4\u65b0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/update-records.html",
-              "apiType": "PUT",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Update Specific Record",
-                "\u7279\u5b9a\u306e\u30c7\u30fc\u30bf\u306e\u66f4\u65b0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/update-specific-record.html",
-              "apiType": "PUT",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Upsert Records",
-                "\u30c7\u30fc\u30bf\u306e\u8ffd\u52a0/\u66f4\u65b0\uff08Upsert\uff09",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/upsert-records.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Delete Records",
-                "\u30c7\u30fc\u30bf\u306e\u524a\u9664",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/delete-records.html",
-              "apiType": "DELETE",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Delete Specific Records",
-                "\u7279\u5b9a\u306e\u30c7\u30fc\u30bf\u306e\u524a\u9664",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/delete-specific-record.html",
-              "apiType": "DELETE",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "List of Deleted Records",
-                "\u8907\u6570\u306e\u30c7\u30fc\u30bf\u306e\u524a\u9664",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-deleted-records.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Search Records",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/search-records.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Convert Lead",
-                "\u30c7\u30fc\u30bf\u306e\u5909\u63db",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/convert-lead.html",
-              "apiType": "POST",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Subforms API",
-            "\u30b5\u30d6\u30d5\u30a9\u30fc\u30e0API",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/subforms.html",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Insert Subform Data",
-                "\u30b5\u30d6\u30d5\u30a9\u30fc\u30e0\u306e\u30c7\u30fc\u30bf\u306e\u8ffd\u52a0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/insert-subforms.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Update Subform Data",
-                "\u30b5\u30d6\u30d5\u30a9\u30fc\u30e0\u306e\u30c7\u30fc\u30bf\u306e\u66f4\u65b0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/update-subforms.html",
-              "apiType": "PUT",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Linking Modules API",
-            "\u30bf\u30d6\u306e\u95a2\u9023\u4ed8\u3051API",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/linking-modules.html",
-          "apiType": null,
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Related List APIs",
-            "\u95a2\u9023\u30ea\u30b9\u30c8API",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Related Records Data",
-                "\u95a2\u9023\u30c7\u30fc\u30bf\u306e\u53d6\u5f97",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-related-records.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Update Related Records",
-                "\u95a2\u9023\u30c7\u30fc\u30bf\u306e\u66f4\u65b0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/update-related-records.html",
-              "apiType": "PUT",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Delink",
-                "\u95a2\u9023\u4ed8\u3051\u306e\u89e3\u9664",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/delink.html",
-              "apiType": "DELETE",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "CRM Variable APIs",
-            "CRM\u5909\u6570API",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Variable Data",
-                "\u5909\u6570\u306e\u30c7\u30fc\u30bf",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-variables.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Specific Variable Data",
-                "\u7279\u5b9a\u306e\u5909\u6570\u306e\u30c7\u30fc\u30bf",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/specific-variable.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Variable Groups",
-                "\u5909\u6570\u30b0\u30eb\u30fc\u30d7",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-variable-group.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Create Variables",
-                "\u5909\u6570\u306e\u4f5c\u6210",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/create-variables.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Update Variables",
-                "\u5909\u6570\u306e\u66f4\u65b0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/update-variables.html",
-              "apiType": "PUT",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Update Specific Variable",
-                "\u7279\u5b9a\u306e\u5909\u6570\u306e\u66f4\u65b0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/update-specific-variable.html",
-              "apiType": "PUT",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Delete Variables",
-                "\u5909\u6570\u306e\u524a\u9664",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/delete-variable.html",
-              "apiType": "DELETE",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Delete Specific Variable",
-                "\u7279\u5b9a\u306e\u5909\u6570\u306e\u524a\u9664",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/delete-specific-variable.html",
-              "apiType": "DELETE",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Blueprint APIs",
-            "\u30d6\u30eb\u30fc\u30d7\u30ea\u30f3\u30c8API",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Blueprint Details",
-                "\u30d6\u30eb\u30fc\u30d7\u30ea\u30f3\u30c8\u306e\u8a73\u7d30",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/blueprint-details.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Update Blueprint Record Details",
-                "\u30d6\u30eb\u30fc\u30d7\u30ea\u30f3\u30c8\u306e\u30c7\u30fc\u30bf\u306e\u8a73\u7d30\u306e\u66f4\u65b0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/update-blueprint.html",
-              "apiType": "PUT",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Tag APIs",
-            "\u30bf\u30b0API",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Tags List",
-                "\u30bf\u30b0\u306e\u4e00\u89a7",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-tag-list.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Record Count for a Tag",
-                "\u30bf\u30b0\u4ed8\u3051\u3055\u308c\u3066\u3044\u308b\u30c7\u30fc\u30bf\u306e\u4ef6\u6570",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/tag-record-count.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Create Tags",
-                "\u30bf\u30b0\u306e\u4f5c\u6210",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/create-tag.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Merge Tags",
-                "\u30bf\u30b0\u306e\u7d71\u5408",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/merge-tags.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Update a Specific Tag",
-                "\u7279\u5b9a\u306e\u30bf\u30b0\u306e\u66f4\u65b0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/update-specific-tag.html",
-              "apiType": "PUT",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Update Multiple Tags",
-                "\u8907\u6570\u306e\u30bf\u30b0\u306e\u66f4\u65b0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/update-tags.html",
-              "apiType": "PUT",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Delete Tags",
-                "\u30bf\u30b0\u306e\u524a\u9664",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/delete-tag.html",
-              "apiType": "DELETE",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Add Tags to Specific Records",
-                "\u7279\u5b9a\u306e\u30c7\u30fc\u30bf\u3078\u306e\u30bf\u30b0\u306e\u8ffd\u52a0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/add-tag-specific.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Add Tags to Multiple Records",
-                "\u8907\u6570\u306e\u30c7\u30fc\u30bf\u3078\u306e\u30bf\u30b0\u306e\u8ffd\u52a0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/add-tag-multiple.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Remove Tags from Specific Record",
-                "\u7279\u5b9a\u306e\u30c7\u30fc\u30bf\u304b\u3089\u306e\u30bf\u30b0\u306e\u524a\u9664",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/remove-tag-specific.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Remove Tags from Multiple Records",
-                "\u8907\u6570\u306e\u30c7\u30fc\u30bf\u304b\u3089\u306e\u30bf\u30b0\u306e\u524a\u9664",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/remove-tag-multiple.html",
-              "apiType": "POST",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Notes APIs",
-            "\u30e1\u30e2API",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Notes Data",
-                "\u30e1\u30e2\u306e\u30c7\u30fc\u30bf",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-notes.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Get Notes from a Specific Record",
-                "\u7279\u5b9a\u306e\u30c7\u30fc\u30bf\u306e\u30e1\u30e2\u306e\u53d6\u5f97",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/specific-note.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Create Notes",
-                "\u30e1\u30e2\u306e\u4f5c\u6210",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/create-notes.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Create Notes for Specific Records",
-                "\u7279\u5b9a\u306e\u30c7\u30fc\u30bf\u306e\u30e1\u30e2\u306e\u4f5c\u6210",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/create-specific-note.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Update Notes",
-                "\u30e1\u30e2\u306e\u66f4\u65b0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/update-notes.html",
-              "apiType": "PUT",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Delete Notes",
-                "\u30e1\u30e2\u306e\u524a\u9664",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/delete-notes.html",
-              "apiType": "DELETE",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Delete Specific Note",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/delete-specific-note.html",
-              "apiType": "DELETE",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Files & Attachments APIs",
-            "\u30d5\u30a1\u30a4\u30eb\uff06\u6dfb\u4ed8API",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "List of Attachments",
-                "\u6dfb\u4ed8\u30d5\u30a1\u30a4\u30eb\u306e\u4e00\u89a7\u306e\u53d6\u5f97",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-attachments.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Upload Attachment",
-                "\u6dfb\u4ed8\u30d5\u30a1\u30a4\u30eb\u306e\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/upload-attachment.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Download Attachment",
-                "\u6dfb\u4ed8\u30d5\u30a1\u30a4\u30eb\u306e\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/download-attachments.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Delete Attachments",
-                "\u6dfb\u4ed8\u30d5\u30a1\u30a4\u30eb\u306e\u524a\u9664",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/delete-attachments.html",
-              "apiType": "DELETE",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Upload Images",
-                "\u753b\u50cf\u306e\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/upload-image.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Download Images",
-                "\u753b\u50cf\u306e\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/download-image.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Delete Images",
-                "\u753b\u50cf\u306e\u524a\u9664\r\n",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/delete-image.html",
-              "apiType": "DELETE",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Mass Update APIs",
-            "\u4e00\u62ec\u66f4\u65b0API",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Mass Update Records",
-                "\u30c7\u30fc\u30bf\u306e\u4e00\u62ec\u66f4\u65b0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/mass-update-records.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Mass Update Status",
-                "\u30b9\u30c6\u30fc\u30bf\u30b9\u306e\u4e00\u62ec\u66f4\u65b0",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/mass-update-status.html",
-              "apiType": "GET",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Currencies API",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Enable Multi-currency",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/enable-multi-currency.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Currencies Data",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-currencies-data.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Specific Currency",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/specific-currency.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Add Currencies",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/add-currencies.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Update Currencies",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/update-currencies.html",
-              "apiType": "PUT",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Share API",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Shared Record Details",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-shared-record-details.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Share Records",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/share-record.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Update Share Permissions",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/update-share-permissions.html",
-              "apiType": "PUT",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Revoke Shared Records",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/revoke-shared-record.html",
-              "apiType": "DELETE",
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Files API",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Upload Files to ZFS",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/upload-files-to-zfs.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Files",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/get-files.html",
-              "apiType": "GET",
-              "subMenu": null
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "menuName": [
-        "Bulk API",
-        "\u4e00\u62ecAPI",
-        ""
-      ],
-      "link": "",
-      "apiType": null,
-      "subMenu": [
-        {
-          "menuName": [
-            "Bulk Read",
-            "\u4e00\u62ec\u53d6\u5f97",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Overview",
-                "\u6982\u8981",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/bulk-read/overview.html",
-              "apiType": null,
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Create Bulk Read Job",
-                "\u4e00\u62ec\u53d6\u5f97\u306e\u30b8\u30e7\u30d6\u306e\u4f5c\u6210",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/bulk-read/create-job.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Get Bulk Read Job Details",
-                "\u4e00\u62ec\u53d6\u5f97\u306e\u30b8\u30e7\u30d6\u306e\u8a73\u7d30\u306e\u53d6\u5f97\r\n",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/bulk-read/job-details.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Download Result",
-                "\u7d50\u679c\u306e\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/bulk-read/download-result.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Limitations",
-                "\u5236\u9650",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/bulk-read/limitations.html",
-              "apiType": null,
-              "subMenu": null
-            }
-          ]
-        },
-        {
-          "menuName": [
-            "Bulk Write",
-            "\u4e00\u62ec\u66f8\u304d\u8fbc\u307f",
-            ""
-          ],
-          "link": "",
-          "apiType": null,
-          "subMenu": [
-            {
-              "menuName": [
-                "Overview",
-                "\u6982\u8981",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/bulk-write/overview.html",
-              "apiType": null,
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Upload File",
-                "\u30d5\u30a1\u30a4\u30eb\u306e\u30a2\u30c3\u30d7\u30ed\u30fc\u30c9",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/bulk-write/upload-file.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Create Bulk Write Job",
-                "\u4e00\u62ec\u66f8\u304d\u8fbc\u307f\u306e\u30b8\u30e7\u30d6\u306e\u4f5c\u6210",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/bulk-write/create-job.html",
-              "apiType": "POST",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Get Bulk Write Job Details",
-                "\u4e00\u62ec\u66f8\u304d\u8fbc\u307f\u306e\u30b8\u30e7\u30d6\u306e\u8a73\u7d30\u306e\u53d6\u5f97",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/bulk-write/job-details.html",
-              "apiType": "GET",
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Download Result",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/bulk-write/download-result.html",
-              "apiType": null,
-              "subMenu": null
-            },
-            {
-              "menuName": [
-                "Limitations",
-                ""
-              ],
-              "link": "/crm/developer/docs/api/bulk-write/limitations.html",
-              "apiType": null,
-              "subMenu": null
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "menuName": [
-        "Notification API",
-        ""
-      ],
-      "link": "",
-      "apiType": null,
-      "subMenu": [
-        {
-          "menuName": [
-            "Overview",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/notifications/overview.html",
-          "apiType": null,
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Enable Notifications",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/notifications/enable.html",
-          "apiType": "POST",
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Get Notification Details",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/notifications/get-details.html",
+          "link": "/crm/developer/docs/api/v2/get-org-data.html",
           "apiType": "GET",
           "subMenu": null
         },
         {
           "menuName": [
-            "Update Details of a Notification",
+            "Organization Photo",
             ""
           ],
-          "link": "/crm/developer/docs/api/notifications/update-details.html",
-          "apiType": "PUT",
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Update Specific Information of a Notification",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/notifications/update-info.html",
-          "apiType": "PATCH",
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Disable Notifications",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/notifications/disable.html",
-          "apiType": "DELETE",
-          "subMenu": null
-        },
-        {
-          "menuName": [
-            "Disable Specific Notifications",
-            ""
-          ],
-          "link": "/crm/developer/docs/api/notifications/specific-disable.html",
-          "apiType": "PATCH",
+          "link": "/crm/developer/docs/api/v2/upload-org-img.html",
+          "apiType": "POST",
           "subMenu": null
         }
       ]
     },
     {
       "menuName": [
-        "Query API",
+        "Users",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "User",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/add-user.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Users",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-users.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "User",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/update-user.html",
+          "apiType": "PUT",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "User",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/delete-user.html",
+          "apiType": "DELETE",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Roles",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Roles",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-roles.html",
+          "apiType": "GET",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Profiles",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Profiles",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-profiles.html",
+          "apiType": "GET",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Territories",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Territories API",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/territories.html",
+          "apiType": "GET",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Metadata",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Modules",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/module-meta.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Fields",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/field-meta.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Layouts",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/layouts-meta.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Related Lists",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/related-list-meta.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Custom Views",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/custom-view-meta.html",
+          "apiType": "GET",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Records",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Records",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-records.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Records",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/insert-records.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Records",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/update-records.html",
+          "apiType": "PUT",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Upsert Records",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/upsert-records.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Records",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/delete-records.html",
+          "apiType": "DELETE",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Convert Lead",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/convert-lead.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "List of Deleted Records",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-deleted-records.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Search Records",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/search-records.html",
+          "apiType": "GET",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Records API using External ID",
         ""
       ],
       "link": "",
@@ -1482,17 +542,762 @@
             "Overview",
             ""
           ],
-          "link": "/crm/developer/docs/api/COQL-Overview.html",
+          "link": "/crm/developer/docs/api/v2/records-api-ext-id-overview.html",
           "apiType": null,
           "subMenu": null
         },
         {
           "menuName": [
-            "COQL Query",
-            
+            "Records Using External ID",
+            ""
           ],
-          "link": "/crm/developer/docs/api/Get-Records-through-COQL-Query.html",
+          "link": "/crm/developer/docs/api/v2/get-records-ext.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Records using External ID",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/insert-records-ext.html",
           "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Records using External ID",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/update-records-ext.html",
+          "apiType": "PUT",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Records using External ID",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/delete-records-ext.html",
+          "apiType": "DELETE",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Upsert Records Using External ID",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/upsert-records-ext.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Search Records Using External ID",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/search-records-ext.html",
+          "apiType": "GET",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Subforms",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Subform Data",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/subforms.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Subform Data",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/insert-subforms.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Subform Data",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/update-subforms.html",
+          "apiType": "PUT",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Linking Modules",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Linking Module",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/linking-modules.html",
+          "apiType": null,
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Related Lists",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Related Records Data",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-related-records.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Related Records",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/update-related-records.html",
+          "apiType": "PUT",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Delink Related Records",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/delink.html",
+          "apiType": "DELETE",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Related Records API using External ID",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Related Records Using External ID",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-related-records-ext.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Related Records Using External ID",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/update-related-records-ext.html",
+          "apiType": "PUT",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Delink Related Records using External ID",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/delete-related-records-ext.html",
+          "apiType": "DELETE",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Contact Roles",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Contact Roles",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-contact-roles.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Contact Roles",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/insert-contact-roles.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Contact Roles",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/update-contact-roles.html",
+          "apiType": "PUT",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Contact Roles",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/delete-contact-roles.html",
+          "apiType": "DELETE",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Contact Roles of a Specific Deal",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-contact-roles-of-a-specific-deal.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Add Contact Roles to a Specific Deal",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/add-contact-roles-to-a-specific-deal.html",
+          "apiType": "PUT",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Remove Contact Role from a Specific Deal",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/remove-contact-role-from-a-specific-deal.html",
+          "apiType": "DELETE",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Blueprint",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Blueprint Details",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/blueprint-details.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Blueprint Details",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/update-blueprint.html",
+          "apiType": "PUT",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Variables",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Variables Data",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-variables.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Variable Groups",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-variable-group.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Variables",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/create-variables.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Variables",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/update-variables.html",
+          "apiType": "PUT",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Variables",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/delete-variable.html",
+          "apiType": "DELETE",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Notes",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Notes Data",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-notes.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Notes",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/create-notes.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Notes",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/update-notes.html",
+          "apiType": "PUT",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Notes",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/delete-notes.html",
+          "apiType": "DELETE",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Tags",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Tags List",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-tag-list.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Record Count for a Tag",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/tag-record-count.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Tags",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/create-tag.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Merge Tags",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/merge-tags.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Tags",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/update-tags.html",
+          "apiType": "PUT",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Tags",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/delete-tag.html",
+          "apiType": "DELETE",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Add Tags to Records",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/add-tags.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Remove Tags from Records",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/remove-tags.html",
+          "apiType": "POST",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Photos & Attachments",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "List of Attachments",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-attachments.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Attachment",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/upload-attachment.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Download an Attachment",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/download-attachments.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Attachment",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/delete-attachments.html",
+          "apiType": "DELETE",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Photo",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/upload-image.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Download a Photo",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/download-image.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Photo",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/delete-image.html",
+          "apiType": "DELETE",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Mass Update",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Mass Update Records",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/mass-update-records.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Mass Update Status",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/mass-update-status.html",
+          "apiType": "GET",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Currencies",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Enable Multi-Currency",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/enable-multi-currency.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Currencies Data",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-currencies-data.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Currencies",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/add-currencies.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Home Currency",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/update-home-currency.html",
+          "apiType": "PUT",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Currencies",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/update-currencies.html",
+          "apiType": "PUT",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Files",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Upload Files to Zoho File System (ZFS)",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/upload-files-to-zfs.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Files",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-files.html",
+          "apiType": "GET",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Share",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Share Records Details",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/get-shared-record-details.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Share Records",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/share-record.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Share Permissions",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/update-share-permissions.html",
+          "apiType": "PUT",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Revoke Shared Records",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/revoke-shared-record.html",
+          "apiType": "DELETE",
+          "subMenu": null
+        }
+      ]
+    }
+  ]
+},
+{
+  "menuName": [
+    "Bulk API",
+    ""
+  ],
+  "link": "",
+  "apiType": null,
+  "subMenu": [
+    {
+      "menuName": [
+        "Bulk Read",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Overview",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/bulk-read/overview.html",
+          "apiType": null,
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Create Bulk Read Job",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/bulk-read/create-job.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Status of the Bulk Read Job",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/bulk-read/job-details.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Download Bulk Read Result",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/bulk-read/download-result.html",
+          "apiType": "GET",
           "subMenu": null
         },
         {
@@ -1500,11 +1305,185 @@
             "Limitations",
             ""
           ],
-          "link": "/crm/developer/docs/api/COQL-Limitations.html",
+          "link": "/crm/developer/docs/api/v2/bulk-read/limitations.html",
+          "apiType": "GET",
+          "subMenu": null
+        }
+      ]
+    },
+    {
+      "menuName": [
+        "Bulk Write",
+        ""
+      ],
+      "link": "",
+      "apiType": null,
+      "subMenu": [
+        {
+          "menuName": [
+            "Overview",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/bulk-write/overview.html",
+          "apiType": null,
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Upload File",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/bulk-write/upload-file.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Create bulk write job",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/bulk-write/create-job.html",
+          "apiType": "POST",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Job Details",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/bulk-write/job-details.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Download Result",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/bulk-write/download-result.html",
+          "apiType": "GET",
+          "subMenu": null
+        },
+        {
+          "menuName": [
+            "Limitations",
+            ""
+          ],
+          "link": "/crm/developer/docs/api/v2/bulk-write/limitations.html",
           "apiType": null,
           "subMenu": null
         }
       ]
+    }
+  ]
+},
+{
+  "menuName": [
+    "Notification API",
+    ""
+  ],
+  "link": "",
+  "apiType": null,
+  "subMenu": [
+    {
+      "menuName": [
+        "Overview",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/notifications/overview.html",
+      "apiType": null,
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Enable Notifications",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/notifications/enable.html",
+      "apiType": "POST",
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Notification Details",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/notifications/get-details.html",
+      "apiType": "GET",
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Details of a Notification",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/notifications/update-details.html",
+      "apiType": "PUT",
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Update Specific Information of a Notification",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/notifications/update-info.html",
+      "apiType": "PATCH",
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Disable Notifications",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/notifications/disable.html",
+      "apiType": "DELETE",
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Disable Specific Notifications",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/notifications/specific-disable.html",
+      "apiType": "PATCH",
+      "subMenu": null
+    }
+  ]
+},
+{
+  "menuName": [
+    "Query API",
+    ""
+  ],
+  "link": "",
+  "apiType": null,
+  "subMenu": [
+    {
+      "menuName": [
+        "Overview",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/COQL-Overview.html",
+      "apiType": null,
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Records through a COQL Query",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/Get-Records-through-COQL-Query.html",
+      "apiType": "POST",
+      "subMenu": null
+    },
+    {
+      "menuName": [
+        "Limitations",
+        ""
+      ],
+      "link": "/crm/developer/docs/api/v2/COQL-Limitations.html",
+      "apiType": null,
+      "subMenu": null
     }
   ]
 }
